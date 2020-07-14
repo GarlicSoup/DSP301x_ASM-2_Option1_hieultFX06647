@@ -10,7 +10,7 @@ Open command gitBash to install needed libraries:
 - Pandas `pip install pandas`
 
 # Description
-- Main file: **lastname_firstname_grade_the_exams.py**
+- Main file: _lastname_firstname_grade_the_exams.py_
 - input file: _class1.txt, class2.txt,_ etc
 - output file: _class1_grade.txt, class2_grade.txt,_ etc
 
