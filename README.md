@@ -11,8 +11,8 @@ Open command gitBash to install needed libraries:
 
 # Description
 - Main file: **lastname_firstname_grade_the_exams.py**
-- input file: class1.txt, class2.txt, etc
-- output file: class1_graded.txt, class2_graded.txt
+- input file: _class1.txt, class2.txt,_ etc
+- output file: _class1_grade.txt, class2_grade.txt,_ etc
 
 # Quick start
 1. Open gitBash and go to the folder that contains the file **lastname_firstname_grade_the_exams.py**
