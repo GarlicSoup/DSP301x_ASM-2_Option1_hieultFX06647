@@ -9,6 +9,11 @@ Open command gitBash to install needed libraries:
 - Numpy: `pip install numpy`
 - Pandas `pip install pandas`
 
+# Description
+- Main file: **lastname_firstname_grade_the_exams.py**
+- input file: class1.txt, class2.txt, etc
+- output file: class1_graded.txt, class2_graded.txt
+
 # Quick start
 1. Open gitBash and go to the folder that contains the file **lastname_firstname_grade_the_exams.py**
 2. Type `python lastname_firstname_grade_the_exams.py` and press **enter**
