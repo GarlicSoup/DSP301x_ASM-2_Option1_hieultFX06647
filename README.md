@@ -23,5 +23,8 @@ Open command gitBash to install needed libraries:
 4. Enter the name of the file that you want to analyze. 
   For example: **Enter a filename (i.e. class1 for class1.txt)**: `class1.txt`
 
+# GitHub URL
+**[https://github.com/GarlicSoup/DSP301x_ASM-2_Option1_hieultFX06647](https://github.com/GarlicSoup/DSP301x_ASM-2_Option1_hieultFX06647)**
+
 # License
 This program is created by [Hieu Le](https://github.com/GarlicSoup)
