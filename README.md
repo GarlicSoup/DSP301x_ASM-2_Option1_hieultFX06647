@@ -13,7 +13,7 @@ Open command gitBash to install needed libraries:
 - Main file: _lastname_firstname_grade_the_exams.py_
 - Input file: _class1.txt, class2.txt,_ etc
 - Output file: _class1_grade.txt, class2_grade.txt,_ etc
-- Zip file: assignmen2_Hieu_Le.zip -- _This .zip file contains all the files in this git_
+- Zip file: _assignmen2_Hieu_Le.zip_ -- This .zip file contains all the files in this git.
 
 # Quick start
 1. Open gitBash and go to the folder that contains the file **lastname_firstname_grade_the_exams.py**
