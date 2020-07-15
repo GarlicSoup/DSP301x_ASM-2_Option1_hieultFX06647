@@ -18,7 +18,7 @@ Open command gitBash to install needed libraries:
 # Quick start
 1. Open gitBash and go to the folder that contains the file **lastname_firstname_grade_the_exams.py**
 2. Type `python lastname_firstname_grade_the_exams.py` and press **enter**
-3. The requirement to type the name of the file that need to be analyzed will appear as follow: 
+3. The requirement to type the name of the file that needs to be analyzed will appear as follow: 
   **Enter a filename (i.e. class1 for class1.txt):**
 4. Enter the name of the file that you want to analyze. 
   For example: **Enter a filename (i.e. class1 for class1.txt)**: `class1.txt`
